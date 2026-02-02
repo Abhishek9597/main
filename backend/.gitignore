@@ -4,7 +4,7 @@ dist/
 
 # Environment Variables 
 
-.env.local
+.env
 .env.*.local
 
 npm-debug.log*
